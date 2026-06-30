@@ -9,3 +9,4 @@ a simple 2d platformer written in python pygame
 _____
 
 ![Game Demo](demo/demo.gif)
+
